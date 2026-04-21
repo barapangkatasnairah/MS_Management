@@ -1,4 +1,4 @@
-const CACHE_NAME = 'medscope-cache-v3';
+const CACHE_NAME = 'medscope-cache-v4';
 const urlsToCache = [
   './',
   './index.html',
